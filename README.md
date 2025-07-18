@@ -2,7 +2,7 @@
 
 ## This codebase demonstrates a conversation between Gemini and DeepSeek 
 
-In this discourse, **Gemini** serves as a Canadian advocate, higlighting the benefits of living in Canada, while **DeepSeek** serves as an American advocate, higlighting the opportunities of living in America. Find the complete breakdown of the prompts I provided to each LLMS
+In this discourse, **Gemini** serves as a Canadian advocate, highlighting the benefits of living in Canada, while **DeepSeek** serves as an American advocate, highlighting the opportunities of living in America. Please find the complete breakdown of the prompts I provided to each LLMS
 
 ## Gemini System Prompt
 

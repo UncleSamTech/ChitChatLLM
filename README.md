@@ -28,6 +28,7 @@ In this discourse, **Gemini** serves as a Canadian advocate, higlighting the ben
 {"role": "user", "content": "Hello there! Experience Canada: Safe, caring, affordable, quality life."}]
 ```
 
-[Demo Of Interaction](new_resized_demo.gif)
+![Demo Of Interaction](new_resized_demo.gif)
+
 
 [▶️ Watch Full Demo](demo_conversation_llm_gemini_deepseek.mp4)
